@@ -1,6 +1,3 @@
-import os
-import sys
-
 file = open('input.txt', 'r')
 Lines = file.readlines()
  
